@@ -1,0 +1,3 @@
+- This is a responsive accordion in HTML, CSS & JS
+- When you click on the header, a description appears
+- An opened accordion will be closed when you click on other header
